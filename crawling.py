@@ -8,7 +8,7 @@ if __name__ == "__main__":
     movie_list = ["https://movie.naver.com/movie/bi/mi/pointWriteFormList.nhn?code=173123&type=after&isActualPointWriteExecute=false&isMileageSubscriptionAlready=false&isMileageSubscriptionReject=false&page=",
                   "https://movie.naver.com/movie/bi/mi/pointWriteFormList.nhn?code=136900&type=after&isActualPointWriteExecute=false&isMileageSubscriptionAlready=false&isMileageSubscriptionReject=false&page="]
 
-    raw_folder = "crawled_data"
+    raw_folder = "raw_data"
     data_name = "data.json"
 
     # folder for download
