@@ -9,3 +9,10 @@
 ```shell
 python crawling.py
 ```
+
+### Preprocessing
+- Input : raw_data folder, json file
+- Output : preprocessed json file
+```shell
+python preprocessing.py
+```
