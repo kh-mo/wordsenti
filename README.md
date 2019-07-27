@@ -12,7 +12,13 @@ python crawling.py
 
 ### Preprocessing
 - Input : raw_data folder, json file
-- Output : preprocessed json file
+- Output : preprocessed json file, tokenized pickle file
 ```shell
 python preprocessing.py
+```
+
+### Modeling
+- input : preprocessed json file, tokenized pickle file 
+```shell
+python modeling.py
 ```
