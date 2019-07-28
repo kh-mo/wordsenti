@@ -18,7 +18,8 @@ python preprocessing.py
 ```
 
 ### Modeling
-- input : preprocessed json file, tokenized pickle file 
+- input : preprocessed json file, tokenized pickle file
+- output : word2vec model, label propagation model, result file
 ```shell
 python modeling.py
 ```
