@@ -1,6 +1,9 @@
 # wordsenti
 
-[Paper](http://jkiie.snu.ac.kr/index.php/journal/article/download/336/pdf)
+## papers
+- project paper : [Word Sentiment Score Evaluation based on Graph-Based Semi-Supervised Learning and Word Embedding](http://jkiie.snu.ac.kr/index.php/journal/article/download/336/pdf), accepted JKIIE 2017
+- word2vec : [Distributed Representations of Words and Phrases and their Compositionality](https://arxiv.org/abs/1310.4546)
+- label propagation : [Learning from Labeled and Unlabeled Data with Label Propagation](http://mlg.eng.cam.ac.uk/zoubin/papers/CMU-CALD-02-107.pdf)
 
 ## Getting Start
 ### Crawling data
